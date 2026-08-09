@@ -1003,3 +1003,8 @@ The result is an AI application where the **backend infrastructure, data persist
 This project is currently provided without a finalized open-source license.
 
 If the repository is intended to be publicly reused or distributed, add an appropriate license such as MIT before publishing it as an open-source project.
+
+---
+# main GitHub profile
+
+https://github.com/omerfarooque-py

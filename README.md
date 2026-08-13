@@ -419,8 +419,8 @@ Make sure the following are installed:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/omerfarooque-clentro/Resume-Builder.git
-cd Resume-Builder
+git clone https://github.com/omerfarooque-clentro/HireLens.git
+cd HireLens
 ```
 
 ---
